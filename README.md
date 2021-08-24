@@ -1,1 +1,2 @@
-# vwan101
+# Virtual WAN Portal Turotial with Bicep Code
+
